@@ -17,7 +17,7 @@ cusdis:
 
 user:
   name: Shea
-  pic: /assets/img/cat.jpg
+  pic: /assets/img/ham.jpeg
   picAlt: "catbook"
   job: front-end developer
   aboutme: true # comment this out if you don't need the 'about' page.
