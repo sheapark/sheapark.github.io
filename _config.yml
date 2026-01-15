@@ -18,6 +18,7 @@ cusdis:
 user:
   name: Shea
   pic: /assets/img/ham.jpeg
+  objectfit: cover
   picAlt: "catbook"
   job: front-end developer
   aboutme: true # comment this out if you don't need the 'about' page.
