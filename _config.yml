@@ -7,8 +7,7 @@ baseurl: # the subpath of the site
 url: http://starry99.github.io/catbook # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
-timezone:
-
+timezone: Asia/Seoul
 favicon: /assets/img/favicon.ico
 
 google_analytics: #UA—XXXXXXXX-X
@@ -17,10 +16,10 @@ cusdis:
   app_id: #your cusdis app_id
 
 user:
-  name: Catbook
+  name: Shea
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: front-end developer
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
