@@ -1,5 +1,5 @@
 ---
-title: dev의 목적에 대하여
+title: render에 한글설치하는 방법
 categories: [dev]
 comments: true
 ---
@@ -19,3 +19,5 @@ echo "[entrypoint] LANG=${LANG}, LC_ALL=${LC_ALL}"
 ```
 
 이걸 추가해주면 된다.
+
+헤헷>,<
